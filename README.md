@@ -1,3 +1,7 @@
+> WARNING: Repository archived
+>
+> Follow up changes at: https://github.com/avisiedo/blog-theme
+
 # Pelican Clean Blog Theme
 
 Theme based in [Clean Blog layout](https://github.com/BlackrockDigital/startbootstrap-clean-blog).
